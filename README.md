@@ -6,6 +6,7 @@
 
 - [Description](#description)
 - [Usage](#usage)
+- [Image](#image)
 - [Webpage](#webpage)
 - [License](#license)
 
@@ -20,6 +21,10 @@ The ultimate coding app with pwa, have your notes well saved. Enjoy coding!
 3. Once clicking on the page (anywhere) the data will be saved.
 4. To download the app click on the top left button. (Install!)
 5. Enjoy your app on the browser or as an independient app on your device.
+
+## Image 
+
+<img width="1470" alt="Screenshot" src="https://github.com/jonathanlunabiom/PWA-Coder/assets/134171773/489410a1-be2a-4ec3-8e65-72c0323dd092">
 
 ## Webpage
 
